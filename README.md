@@ -28,7 +28,7 @@ Users should be able to:
 
 ![](./screenshot-desktop.png)
 
-![](./screenshot-mobile.jpg)
+![](./screenshot-mobile.png)
 ### Links
 
 - Solution URL: [https://github.com/JustinMartz/product-preview-card-component-main](https://github.com/JustinMartz/product-preview-card-component-main)
